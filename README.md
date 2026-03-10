@@ -12,11 +12,15 @@
 
 
 
-- 👨‍💻 Trabalho com códigos de segurança.
-- 📖 Focado em aprender e melhorar.
-- 🛠️ Gosto de trabalhar em projetos variados.
-- 👥 Aberto a colaboração.
-- 🔧 Ofereço serviços de segurança.
+👨‍💻 Desenvolvendo ferramentas de segurança para Linux e Kali.
+
+🔎 Focado em Pentest, Bug Bounty e exploração de vulnerabilidades.
+
+⚙️ Criando automações para Recon, Fuzzing e Brute Force.
+
+📚 Sempre aprendendo e evoluindo em Cibersegurança.
+
+🤝 Aberto a colaborações e projetos na área de segurança.
 
 
 <div align="start">
